@@ -5,5 +5,5 @@ Retro-View HD is an affordable HDMI Output Solution for use with the Shinobi-Sca
 
 Recommended fabrication specs:
 
-  1mm-thick 2-layer PCB
-  ENIG finish
+- 1mm-thick 2-layer PCB
+- ENIG finish
