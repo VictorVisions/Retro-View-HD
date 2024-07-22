@@ -1,5 +1,5 @@
 # Retro-View-HD
-Retro-View HD is an affordable HDMI Output Solution for use with the [Shinobi-Scaler](https://github.com/mackieks/Shinobi-Scaler).
+Retro-View HD is an affordable HDMI Output Solution in development for use with the [Shinobi-Scaler](https://github.com/mackieks/Shinobi-Scaler).
 
 # Ordering
 
