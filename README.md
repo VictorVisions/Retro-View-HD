@@ -8,7 +8,7 @@ Retro-View HD is an affordable HDMI output solution in development for use with 
 Under Releases you'll find the latest Design and Build zip files. The Design folder will contain KiCad files along with the Schematic while the Build file will contain your BOM and Gerber files.
 
 # Purchasing the PCB
-Under Releases download the latest version of the Build folder and upload the file named "Gerber_Files.zip" to your preffered PCB manufacturing site such as... 
+Under Releases download the latest version of the Build folder and upload the file named "Retro-View-HD_Gerber_Files.zip" to your preffered PCB manufacturing site such as... 
 [https://jlcpcb.com/](https://jlcpcb.com/), [https://oshpark.com/](https://oshpark.com/) or similar PCB Manufacturers.
 
 The reccomended PCB Specifications are:
