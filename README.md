@@ -1,8 +1,8 @@
 # Retro-View-HD
 Retro-View HD is an affordable HDMI output solution in development for use with the [Shinobi-Scaler](https://github.com/mackieks/Shinobi-Scaler). My mindset behind the design was to have an afforadable, minimalistic alternative to the current market for upscalers as the current state is either very expensive options, lack in quality or are somewhat of an eyesore. This project requires advanced soldering skills and is not an alternative to the broad market as it is currently a DIY project and will not be mass produced. As an open source project the original KiCad and design files will be provided, the files can be modified and is open to collaboration efforts in order to improve upon the design. The projected public release date is by end of year 2024.
 
-![Retro-View HD v 1 Front](https://github.com/user-attachments/assets/38947d5c-6628-46de-a86d-094b5eb9aca2)
-![Retro-View HD v 1 Back](https://github.com/user-attachments/assets/9f452867-688d-4491-9c71-b1891a8b854e)
+![Retro-View HD v 1 Front](https://github.com/user-attachments/assets/01dabc91-9346-494c-be6b-15f11db80223)
+![Retro-View HD v 1 Back](https://github.com/user-attachments/assets/0c3f061a-53eb-446d-8ab4-fd1a7b8cdc8a)
 
 # Design and Build Files
 Under Releases you'll find the latest Design and Build zip files. The Design folder will contain KiCad files along with the Schematic while the Build file will contain your BOM and Gerber files.
