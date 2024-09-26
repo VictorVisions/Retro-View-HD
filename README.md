@@ -1,8 +1,8 @@
 # Retro-View-HD
-Retro-View HD is an affordable HDMI output solution in development for use with the [Shinobi-Scaler](https://github.com/mackieks/Shinobi-Scaler). Please bear with me as I will be updating this design shortly to match the Shinobi-Scaler 2's smaller PCB layout. My mindset behind the design was to have an afforadable, minimalistic alternative to the current market for upscalers as the current state is either very expensive options, lack in quality or are somewhat of an eyesore. This project requires advanced soldering skills and is not an alternative to the broad market as it is currently a DIY project and will not be mass produced. As an open source project the original KiCad and design files will be provided, the files can be modified and is open to collaboration efforts in order to improve upon the design. The projected public release date is by end of year 2024.
+Retro-View HD is an affordable HDMI output solution in development for use with the [Shinobi-Scaler](https://github.com/mackieks/Shinobi-Scaler) 2. My mindset behind the design was to have an afforadable, minimalistic alternative to the current market for upscalers as the current state is either very expensive options, lack in quality or are somewhat of an eyesore. This project requires advanced soldering skills and is not an alternative to the broad market as it is currently a DIY project and will not be mass produced. As an open source project the original KiCad and design files will be provided, the files can be modified and is open to collaboration efforts in order to improve upon the design. The projected public release date is by end of year 2024.
 
-![Retro-View HD v 1 Front](https://github.com/user-attachments/assets/01dabc91-9346-494c-be6b-15f11db80223)
-![Retro-View HD v 1 Back](https://github.com/user-attachments/assets/0c3f061a-53eb-446d-8ab4-fd1a7b8cdc8a)
+![Retro-View HD v 3 Front](https://github.com/user-attachments/assets/2bfd0755-f7be-4d90-a9f9-b50399e7fd0e)
+![Retro-View HD v 3 Back](https://github.com/user-attachments/assets/50b1a70b-89cb-4fbb-b5e6-d22eb2a86930)
 
 # Design and Build Files
 Under Releases you'll find the latest Design and Build zip files. The Design folder will contain KiCad files along with the Schematic while the Build file will contain your BOM and Gerber files.
