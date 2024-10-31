@@ -20,3 +20,8 @@ The reccomended PCB Specifications are:
 # Sourcing the components
 All components can be ordered via Mouser minus the ZY5621 (U1) which can be ordered through [https://www.aliexpress.com/i/3256801691060726.html?gatewayAdapt=4itemAdapt](https://www.aliexpress.com/i/3256801691060726.html?gatewayAdapt=4itemAdapt).
 I have listed a Bill of Materials (BOM) with part numbers to be used for ordering components through Mouser. You can find this under the Build folder labeled "Retro_View_HD_BOM.xlsx".
+
+# Gallery
+
+![RVHD_v4_Front](https://github.com/user-attachments/assets/5522d9dd-c13a-49ce-a36f-ab783b38a65c)
+![RVHD_v4_Back](https://github.com/user-attachments/assets/5ee19f51-e038-42d3-a3ca-daf55f691661)
