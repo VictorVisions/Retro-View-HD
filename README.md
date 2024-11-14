@@ -1,5 +1,5 @@
 # Retro-View-HD
-Retro-View HD is an VGA to HDMI output solution in development for use with the [Shinobi-Scaler](https://github.com/mackieks/Shinobi-Scaler) 2. This project requires advanced soldering skills and is not an alternative to the broad market as it is currently a DIY project and will not be mass produced. As an open source project the original KiCad and design files will be provided, the files can be modified and is open to collaboration efforts in order to improve upon the design.
+Retro-View HD is a VGA to HDMI output solution in development for use with the [Shinobi-Scaler](https://github.com/mackieks/Shinobi-Scaler) 2. This project requires advanced soldering skills and is not an alternative to the broad market as it is currently a DIY project and will not be mass produced. As an open source project the original KiCad and design files will be provided, the files can be modified and is open to collaboration efforts in order to improve upon the design.
 
 ![Retro-View HD v 4 Front](https://github.com/user-attachments/assets/d209759f-7fcb-4429-ab53-09daf50e99ad)
 ![Retro-View HD v 4 Back](https://github.com/user-attachments/assets/0d195651-1f61-4d59-bab8-f0e8e0300ea4)
